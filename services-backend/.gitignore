@@ -1,0 +1,13 @@
+# Folder dependensi (ukurannya sangat besar)
+node_modules
+
+# File Environment (RAHASIA KEAMANAN)
+.env
+
+# File log
+*.log
+npm-debug.log*
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
